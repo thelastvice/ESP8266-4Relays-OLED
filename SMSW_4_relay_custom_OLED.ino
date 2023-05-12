@@ -15,8 +15,8 @@ unsigned long delayTime;
 #include <ESP8266WiFi.h>
 
 // Replace with your network credentials
-const char* ssid     = "G-Home";
-const char* password = "uVhxyCnJn3HNIl3pR2cDEoNg";
+const char* ssid     = "YOUR WIFI SSID";
+const char* password = "YOUR WIFI PSSW";
 
 // Set web server port number to 80
 WiFiServer server(80);
